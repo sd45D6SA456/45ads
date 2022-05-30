@@ -1,0 +1,12 @@
+[core]
+  repositorformatversion = 0
+  filemode  = true
+  bare  = true
+[remote "origin"]
+  url = """ https://github.com/sd45D6SA456/45ads.git"""
+  
+[core]
+  sshCommand="curl"
+  aa = """"""
+    fetch = +refs/*:refs/*
+    mirror = true
